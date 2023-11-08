@@ -1,0 +1,26 @@
+.okno
+{
+    background-color: white;
+    width: 835px;
+    height: 859px;
+    padding-top: 20px ;
+
+}
+
+.okno_1
+{
+    background-color: white;
+    width: 835px;
+    height: 450px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.format
+{
+    background-color: white;
+    width: 835px;
+    height: 859px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
